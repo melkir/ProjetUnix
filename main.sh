@@ -3,7 +3,7 @@
 showMenu() {
 	clear
 	echo "ToolBox"
-	echo "Copyright Pierre-Yves Machavoine"
+	echo "Copyright Pyms"
 	echo -e "\n[ Menu ]"
 	echo "1) Informations sur le système"
 	echo "2) Informations sur des fichiers et dossiers"

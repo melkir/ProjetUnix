@@ -1,5 +1,5 @@
 #!/bin/sh
-# math2.sh
+# sumVar.sh
 
 Usage(){
     echo "Usage : $0 <arg1><arg2>...<argn>" 1>&2

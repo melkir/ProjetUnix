@@ -21,7 +21,7 @@ while read -r; do
 			reboot
 			;;
 		3)
-			echo "Après vous êtres connecté en tant que root taper exit pour revenir en mode normal"
+			echo "Après vous être connecté en tant que root taper exit pour revenir en mode normal"
 			su
 			;;
 		4)

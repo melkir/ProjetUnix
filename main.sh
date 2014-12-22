@@ -33,7 +33,7 @@ while read -r; do
 			;;
 		q)
 			clear
-			break
+			exit
 			;;
 		*)
 			echo "Bad argument"
